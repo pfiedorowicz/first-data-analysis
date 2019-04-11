@@ -1,6 +1,7 @@
 14 5 moja zmiana w dev2
+14 5 moja zmiana w dev
 44 0 moja kolejna zmiana
-74 5
+74 5 
 126 20
 155 40
 205 24
