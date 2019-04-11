@@ -1,4 +1,4 @@
-14 5
+14 5 moja nowa zmiana
 44 0
 74 5
 126 20
