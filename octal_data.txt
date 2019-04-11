@@ -1,5 +1,5 @@
-14 5 moja nowa zmiana
-44 0
+14 5 moja druga zmiana
+44 0 moja kolejna zmiana
 74 5
 126 20
 155 40
